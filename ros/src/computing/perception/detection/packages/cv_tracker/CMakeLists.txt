@@ -385,6 +385,7 @@ if(EXISTS "${YOLO2_PATH}")
     ${YOLO2_PATH}/src/route_layer.c
     ${YOLO2_PATH}/src/shortcut_layer.c
     ${YOLO2_PATH}/src/softmax_layer.c
+    ${YOLO2_PATH}/src/lstm_layer.c
     ${YOLO2_PATH}/src/tree.c
     ${YOLO2_PATH}/src/utils.c
 
